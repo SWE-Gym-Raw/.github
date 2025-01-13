@@ -10,13 +10,13 @@ Welcome to the **SWE-Gym-Raw**! This GitHub organization hosts all 368 repositor
 
 To get started with the SWE-Gym project, visit our project page:
 
-🌐 [swe-gym.github.io](https://swe-gym.github.io)
+🌐 [huggingface.co/SWE-Gym](https://huggingface.co/SWE-Gym)
 
 ## Accessing the Data and Models
 
 The data and models associated with SWE-Gym-Raw are available on Huggingface. You can access them here:
 
-🤗 [Huggingface SWE-Gym](https://huggingface.co/swe-gym)
+🤗 [Huggingface SWE-Gym/SWE-Gym-Raw](https://huggingface.co/datasets/SWE-Gym/SWE-Gym-Raw)
 
 ## Contact
 
