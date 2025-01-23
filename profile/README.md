@@ -1,6 +1,6 @@
 # SWE-Gym-Raw
 
-Welcome to the **SWE-Gym-Raw**! This GitHub organization hosts all 368 repositories that comprise the **SWE-Gym-Raw** dataset. These repositories serve as testbeds for the SWE-Gym project, providing a diverse and extensive collection of environments for software engineering research and experimentation.
+Welcome to the **SWE-Gym-Raw**! This GitHub organization hosts 351 out of 368 repositories that comprise the **SWE-Gym-Raw** dataset. These repositories serve as testbeds for the SWE-Gym project, providing a diverse and extensive collection of environments for software engineering research and experimentation.
 
 ## About SWE-Gym-Raw
 
